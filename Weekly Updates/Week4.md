@@ -11,10 +11,6 @@
 \
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXf-3ywgHpja8M7kJz2XDW6L6o5NhkGc3hzAQFW7reoNC9KnNc1nMaHkVWRmmxQikejU1PKTg95546ri7f4zmRgkpI8h5BS0aVg2qdWFnMvXdmCpwLahfFJ0hlFgV3Ve_ADepg7XVRNA-BcjiXSiltlTTGQB?key=-sDb-ENbuLLxKxQ1iK1g-B17)\
 \
-\
-\
-\
-
 
 **Fivedirections**: Model from scratch did not provide same results as the pre-trained model. In fact on multiple runs, the performance kept getting worse. 
 
@@ -23,16 +19,11 @@ This is the dataset that the authors had very poor precision on, but the results
 \
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfSlOi3eNq6v9jUjcIyb4qPNbMtq7Xcp1zAnxX5TakxpYsiJqk4Zhfq4A_9DdRrvqaHgEKjsiIGh0NZAOPvkhD5dnEsHzxeAMfg_VKzB1y9qUkgH5tU4tUM8A5QxRGmAX-7aob_BKJ1jVHEKF-B2Qg--gI?key=-sDb-ENbuLLxKxQ1iK1g-B17)\
 \
-\
-\
-
 
 While these are the results on the pre-trained model:
 
 \
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcRU9OY2WQJG5vI3Onmj-9D86bpGTT6NBgCN4MoiPsUks8_4-zvlpkP6tPO8vXWbW2pf0cU4iD_dJSxsRnJdIGn-MPgCKuGV7QuvNVPbxwSdfOwEfitoasD0R3Aq9N3iSkC1cZbvdYX1N2ewLTxWniniB29?key=-sDb-ENbuLLxKxQ1iK1g-B17)\
-\
-\
 \
 
 
@@ -41,27 +32,12 @@ While these are the results on the pre-trained model:
 \
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcYwFVfe3GdfVENwZaxCqlLD44AhXh7ILgJy04vPmN9l_scEfgEqySmkKE6Thh-LSI6iKCDTvvyNuSYP_NEDO1rVjUitFC8OzNxn6g8ZQev5pUDWuiECPgOWRBBCXUFLWmJIT7ZGAskMibVYzgJO_lgqems?key=-sDb-ENbuLLxKxQ1iK1g-B17)\
 \
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-
 
 **Trace**: Model from scratch provided the same results as the pre-trained model: 
 
 \
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdXCBt_iZse8umYfBBzgpbMKPUDizoDmKBZ1yZaLdR_SeBAznkLmY-h5Y-wmcEIZO7-3zJZst7Aqhf9Ryg83zktVqHb8HYc4bHFIchGIToYQM3KMpK4Iyip3xPrLSF5VT-LQdtqI3h1gnAo2MZMegsMPcKJ?key=-sDb-ENbuLLxKxQ1iK1g-B17)\
 \
-\
-\
-\
-
 
 **Streamspot**: The code provided to run this was erroneous;
 
