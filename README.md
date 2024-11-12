@@ -1,1 +1,5 @@
-Weekly Updates folder currently has Week4 updates for all 3 tools; AirTag, FLASH and DepImpact. I will separate these properly later.
+Directory Reproducibility has my work in it.
+
+Directory original has FLASH's repository files.
+
+Directory Weekly Updates has markdowns created to track the weekly progress.
