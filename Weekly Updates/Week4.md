@@ -95,9 +95,12 @@ I have made the edits for now and am trying to see if I am able to reproduce the
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcHnL8gky8DAHk3VDfEd0HZlRnAuiEjhsrbUNC93gJphIOGxKZNyt_3oRa3nOskIrtkdzzcgej_sY_cFfSWT9Bl1vItTepPOKrfeV8djUb12Wk_yMtPP7M2oqlqciVR51boWF36pkLxB624FHXau1Nsuqsu?key=-sDb-ENbuLLxKxQ1iK1g-B17)
 
-Comparison of results: Left: Pretrained Model, Right: My run from scratch.
+Comparison of results: Above: Pretrained Model, Below: My run from scratch.
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdE6wX6k7x8Lbk2RxHJHhGTYP1l7XAFwvW6nHsw-MlpRi3UUOWyTxk5jVkq0-aBbW8qdmrjyDHZeRYVrzwYLfSvrf2Y0uvcdprAQ9-icvzXk0jNAe9IzTgtqkih3HkKJ1QR4jqnL5StRbbVQ91JiLuE8y4?key=-sDb-ENbuLLxKxQ1iK1g-B17)
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfejzsi0OasrmOt8WOHqYAn_TRJwW2zouXWjwmVDbohj1WcCzCxNruYBzz_WLgRiu_8bN2eIBcvEHsEq-FWq9k4rZzsSxb0BJNL_iOAUBX5TDhEcBdzt0_vQBDyxlpsew78wZjiy0CwN3q_Q253G_0oC7Ev?key=-sDb-ENbuLLxKxQ1iK1g-B17)
 
-However, the results on the right are after I made the edits in the code. It might be possible that the results match if I run the original code but the run takes a lot of time. Moreover, I do not think the edits suggested _do anything different_ from what the original code intends to do.
+-----------------------------------------------------------------
+
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdE6wX6k7x8Lbk2RxHJHhGTYP1l7XAFwvW6nHsw-MlpRi3UUOWyTxk5jVkq0-aBbW8qdmrjyDHZeRYVrzwYLfSvrf2Y0uvcdprAQ9-icvzXk0jNAe9IzTgtqkih3HkKJ1QR4jqnL5StRbbVQ91JiLuE8y4?key=-sDb-ENbuLLxKxQ1iK1g-B17)
+
+However, the results below are after I made the edits in the code. It might be possible that the results match if I run the original code but the run takes a lot of time. Moreover, I do not think the edits suggested _do anything different_ from what the original code intends to do.
